@@ -1,0 +1,6 @@
+#запрещаем добавлять папки .idea и venv
+.idea/*
+venv/*
+# и еще адресные книги
+phonebook_raw.csv
+phonebook.csv
